@@ -1,0 +1,3 @@
+
+В Laravel получить JSON по адресу https://jsonplaceholder.typicode.com/users. Обработать массив пользователей, 
+используя минимум 5 методов помощника Arr. Докумментация: https://laravel.com/docs/11.x/helpers
